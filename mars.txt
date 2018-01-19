@@ -1,1 +1,2 @@
-mars
+This is a new file
+New line 
